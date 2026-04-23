@@ -1,8 +1,5 @@
 # 恩信 (Gracelink) —— 重新定义私密社交生态
 
-![License](https://shields.io)
-![Status](https://shields.io)
-![Platform](https://shields.io)
 
 > **受够了主流社交软件的臃肿与监控？欢迎来到恩信（Gracelink），一个把隐私权和社交自由还给用户的避风港。**
 
